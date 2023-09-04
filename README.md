@@ -1,17 +1,8 @@
-<p aligment="center">
-  
-</p>
+# Hi there! My name is Ofek Smadja
 
-
-Hi there!
-My name is Ofek Smadja, 
-I am a 3rd year Computer Science B.Sc. student in the Academic College of Tel Aviv-Yafo.
-Passionate for complex problem solving and the development of high-quality code.
-A self-learner with a desire to tackle technological challenges,
-Educated at Data Structures, Object-Oriented Programming, C++ ,C , Javascript and Python.
+I am a 3rd year Computer Science B.Sc. student at the Academic College of Tel Aviv-Yafo. Passionate about complex problem solving and the development of high-quality code. A self-learner with a desire to tackle technological challenges, educated in Data Structures, Object-Oriented Programming, C++, C, JavaScript, and Python.
 
 ---
-
 
 ### 🖥️ Languages and Tools:
 
@@ -24,11 +15,6 @@ Educated at Data Structures, Object-Oriented Programming, C++ ,C , Javascript an
 | Other |         ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)                                                              
 ---
                   
----
-
-
-
-
 ---
 
 🏅 Certificates:
@@ -47,4 +33,3 @@ Educated at Data Structures, Object-Oriented Programming, C++ ,C , Javascript an
  <p>
   <a href="https://www.linkedin.com/in/ofek-smadja/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
  </p>                         
-<!--
